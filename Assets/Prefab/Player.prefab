@@ -97,6 +97,10 @@ MonoBehaviour:
   gravity: 1
   gravityUpJump: 0.8
   jumpInputTimer: 0.3
+  coyoteTime: 0.1
+  physicsFriction: {fileID: 6200000, guid: 1eadea2dfc0d4a84b9fe21aa0394272f, type: 2}
+  physicsNoFriction: {fileID: 6200000, guid: f693dd3e28403894fa7fb35dc1e91de0, type: 2}
+  slopeDetectOffset: -0.3
 --- !u!1 &2091855719098390647
 GameObject:
   m_ObjectHideFlags: 0
